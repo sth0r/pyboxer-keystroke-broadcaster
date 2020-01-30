@@ -1,4 +1,4 @@
-# pyboxer
+# pyboxer keystroke broadcaster
 python script for broadcasting keystroks to a background window
 
 This script is a bit hacked togehter but it works for what iam doing with it.
